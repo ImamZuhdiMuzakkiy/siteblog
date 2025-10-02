@@ -1,0 +1,22 @@
+{
+    "posts": [
+        {
+            "id": 1,
+            "title": "UI/UX Design Trends in 2025",
+            "body": "Explore the latest trends in UI/UX design for 2025, including immersive experiences, AI integration, and more.",
+            "tags": ["UI/UX", "Design", "2025"]
+        },
+        {
+            "id": 2,
+            "title": "Top 10 JavaScript Frameworks to Watch",
+            "body": "A comprehensive review of the top 10 JavaScript frameworks that are gaining popularity in 2025.",
+            "tags": ["JavaScript", "Frameworks", "Web Development"]
+        },
+        {
+            "id": 3,
+            "title": "Effective Remote Work Strategies",
+            "body": "Tips and strategies for maintaining productivity and work-life balance while working remotely.",
+            "tags": ["Remote Work", "Productivity", "Work-Life Balance"]
+        }
+    ]
+}
